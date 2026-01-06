@@ -793,6 +793,6 @@ This pimninh/cadao-tucngu-nlp)
 
 **⭐ Star this repo if you find it useful! ⭐**
 
-Made with ❤️ and ☕ by [Your Name]
+Made with ❤️ and ☕ by [Group 16]
 
 </div>
