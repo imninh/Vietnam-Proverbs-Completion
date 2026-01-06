@@ -1,0 +1,3890 @@
+[
+  {
+    "full": "lạnh lùng thay láng giềng ôi",
+    "input": "lạnh lùng",
+    "target": "thay láng giềng ôi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "lá rụng về cội",
+    "input": "lá rụng",
+    "target": "về cội",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "con gái đương thì rỗng toác toàng toang",
+    "input": "con gái đương",
+    "target": "thì rỗng toác toàng toang",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "bây giờ mận mới hỏi đào",
+    "input": "bây giờ",
+    "target": "mận mới hỏi đào",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ai ngồi ai câu ai sầu ai thảm",
+    "input": "ai ngồi",
+    "target": "ai câu ai sầu ai thảm",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "những người quân tử dạ càng đinh ninh",
+    "input": "những người quân",
+    "target": "tử dạ càng đinh ninh",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "bạc sao bạc chẳng vừa thôi",
+    "input": "bạc sao",
+    "target": "bạc chẳng vừa thôi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bên lở thì đục, bên bồi thì trong",
+    "input": "bên lở",
+    "target": "thì đục, bên bồi thì trong",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "biết bao gái đẹp như hoa",
+    "input": "biết bao",
+    "target": "gái đẹp như hoa",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "buổi chợ tan rồi con tép bạc anh cũng khen ngon",
+    "input": "buổi chợ tan",
+    "target": "rồi con tép bạc anh cũng khen ngon",
+    "split_ratio": 0.3,
+    "input_words": 3,
+    "target_words": 8
+  },
+  {
+    "full": "ai dè giếng cạn, tiếc hoài sợi dây",
+    "input": "ai dè giếng",
+    "target": "cạn, tiếc hoài sợi dây",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ru con không hát, em chừa nguyệt hoa",
+    "input": "ru con không",
+    "target": "hát, em chừa nguyệt hoa",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "nhà giàu đứt tay bằng ăn mày đổ ruột",
+    "input": "nhà giàu đứt tay",
+    "target": "bằng ăn mày đổ ruột",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "thôi đừng vui thú nguyệt hoa chơi bời",
+    "input": "thôi đừng",
+    "target": "vui thú nguyệt hoa chơi bời",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "ầu ơ... quạ kêu nam đáo nữ phòng",
+    "input": "ầu ơ... quạ",
+    "target": "kêu nam đáo nữ phòng",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "đâm bị thóc, thọc bị gạo",
+    "input": "đâm bị",
+    "target": "thóc, thọc bị gạo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "có của thì có mẹ nàng",
+    "input": "có của",
+    "target": "thì có mẹ nàng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ngó sông sông rộng, ngó rừng rừng sâu",
+    "input": "ngó sông sông",
+    "target": "rộng, ngó rừng rừng sâu",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ai cho bú thép ngày rày mang ơn",
+    "input": "ai cho bú",
+    "target": "thép ngày rày mang ơn",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "khăng khăng quân tử một lời nhất ngôn",
+    "input": "khăng khăng quân",
+    "target": "tử một lời nhất ngôn",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "chiếu bông mà trải góc đền",
+    "input": "chiếu bông",
+    "target": "mà trải góc đền",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "như tép rang ăn cặp với canh khoai mỡ",
+    "input": "như tép",
+    "target": "rang ăn cặp với canh khoai mỡ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 7
+  },
+  {
+    "full": "cái ngủ mày ngủ cho say",
+    "input": "cái ngủ",
+    "target": "mày ngủ cho say",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chân đi ba bước lại dừng",
+    "input": "chân đi",
+    "target": "ba bước lại dừng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "con chim kêu cũng sợ, con cá vẫy vùng cũng lo",
+    "input": "con chim kêu",
+    "target": "cũng sợ, con cá vẫy vùng cũng lo",
+    "split_ratio": 0.3,
+    "input_words": 3,
+    "target_words": 8
+  },
+  {
+    "full": "hỏi con bạn vàng nó cứu không",
+    "input": "hỏi con bạn",
+    "target": "vàng nó cứu không",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "con chim nho nhỏ",
+    "input": "con chim",
+    "target": "nho nhỏ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "chiều chiều trước bến văn lâu",
+    "input": "chiều chiều",
+    "target": "trước bến văn lâu",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "gừng cay muối mặn",
+    "input": "gừng cay",
+    "target": "muối mặn",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "thương anh em phải sớm hôm",
+    "input": "thương anh",
+    "target": "em phải sớm hôm",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "giỏ nhà ai quai nhà nấy",
+    "input": "giỏ nhà",
+    "target": "ai quai nhà nấy",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "con lên ba cả nhà học nói",
+    "input": "con lên ba",
+    "target": "cả nhà học nói",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "sao chì chẳng đúc nên cồng, nên chuông",
+    "input": "sao chì chẳng",
+    "target": "đúc nên cồng, nên chuông",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "cái chuà tân thiện nhiều kẻ tu hành",
+    "input": "cái chuà tân",
+    "target": "thiện nhiều kẻ tu hành",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "sai một li đi một dặm",
+    "input": "sai một",
+    "target": "li đi một dặm",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "thác cho rồi đặng chữ thuỷ chung",
+    "input": "thác cho rồi",
+    "target": "đặng chữ thuỷ chung",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "cũng trũng, cũng gò, cũng rẫy, đồng",
+    "input": "cũng trũng, cũng",
+    "target": "gò, cũng rẫy, đồng",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "ghe lên ghe xuống dầm dề",
+    "input": "ghe lên",
+    "target": "ghe xuống dầm dề",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "th tháng bảy kiến bò, chỉ lo lại lụt",
+    "input": "th tháng",
+    "target": "bảy kiến bò, chỉ lo lại lụt",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 7
+  },
+  {
+    "full": "thơm cây, thơm lá, người trồng cũng thơm",
+    "input": "thơm cây,",
+    "target": "thơm lá, người trồng cũng thơm",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "có làm mới có ăn",
+    "input": "có làm",
+    "target": "mới có ăn",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "có công mài sắt, có ngày nên kim",
+    "input": "có công",
+    "target": "mài sắt, có ngày nên kim",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "nuôi lợn ăn cơm nằm, nuôi tằm ăn cơm đứng",
+    "input": "nuôi lợn ăn cơm",
+    "target": "nằm, nuôi tằm ăn cơm đứng",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 6
+  },
+  {
+    "full": "để ra vào kinh sử lắng nghe",
+    "input": "để ra vào",
+    "target": "kinh sử lắng nghe",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "vốn không thả lý, gieo đào như ai",
+    "input": "vốn không thả",
+    "target": "lý, gieo đào như ai",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "xuống sông vớt bưởi để mà xem thơ",
+    "input": "xuống sông",
+    "target": "vớt bưởi để mà xem thơ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "hễ ai đánh chết trời cho quan tiền",
+    "input": "hễ ai",
+    "target": "đánh chết trời cho quan tiền",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "cu kêu từng cặp trên cây",
+    "input": "cu kêu",
+    "target": "từng cặp trên cây",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "anh buồn có chỗ thở than",
+    "input": "anh buồn",
+    "target": "có chỗ thở than",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bắc thang lên hái hoa vàng",
+    "input": "bắc thang",
+    "target": "lên hái hoa vàng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chanh chua thì khế cũng chua",
+    "input": "chanh chua",
+    "target": "thì khế cũng chua",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "anh đi em một ngó chừng",
+    "input": "anh đi",
+    "target": "em một ngó chừng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đàn bà không vú lấy gì nuôi con",
+    "input": "đàn bà",
+    "target": "không vú lấy gì nuôi con",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "của làm ra để trên gác",
+    "input": "của làm",
+    "target": "ra để trên gác",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "có bạc có vàng thì có kẻ ưa",
+    "input": "có bạc",
+    "target": "có vàng thì có kẻ ưa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "ông thò chân giò, bà thò nậm rượu",
+    "input": "ông thò",
+    "target": "chân giò, bà thò nậm rượu",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "chút hương rớt lại, một đời chưa quên",
+    "input": "chút hương",
+    "target": "rớt lại, một đời chưa quên",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "hết duyên ông lão cũng quơ làm chồng",
+    "input": "hết duyên",
+    "target": "ông lão cũng quơ làm chồng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "thiếp như cơm nguội đỡ khi đói long",
+    "input": "thiếp như cơm",
+    "target": "nguội đỡ khi đói long",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "nước non một gánh chung tình",
+    "input": "nước non",
+    "target": "một gánh chung tình",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "có em anh mới sớm khuya chốn này",
+    "input": "có em anh",
+    "target": "mới sớm khuya chốn này",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ngó vô nhà đèn đỏ đèn xanh",
+    "input": "ngó vô nhà",
+    "target": "đèn đỏ đèn xanh",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "tiền vào nhà khó như gió vào nhà trống",
+    "input": "tiền vào",
+    "target": "nhà khó như gió vào nhà trống",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 7
+  },
+  {
+    "full": "ăn thì ăn những miếng ngon",
+    "input": "ăn thì",
+    "target": "ăn những miếng ngon",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "con cãi cha mẹ trăm đường con hư",
+    "input": "con cãi cha",
+    "target": "mẹ trăm đường con hư",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "câu đợi, câu chờ, câu nhớ, câu mong",
+    "input": "câu đợi,",
+    "target": "câu chờ, câu nhớ, câu mong",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "ghét con xẩm lai mê trai, mi lai nhãn khứ",
+    "input": "ghét con xẩm lai",
+    "target": "mê trai, mi lai nhãn khứ",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 6
+  },
+  {
+    "full": "đừng cho lúa gạo, xóm giềng họ hay",
+    "input": "đừng cho",
+    "target": "lúa gạo, xóm giềng họ hay",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "học thầy không tày học bạn",
+    "input": "học thầy",
+    "target": "không tày học bạn",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chàng ôi, giận thiếp mà chi",
+    "input": "chàng ôi,",
+    "target": "giận thiếp mà chi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đề huề chồng vợ",
+    "input": "đề huề",
+    "target": "chồng vợ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "ở nhà nghe đông hà lúa héo",
+    "input": "ở nhà",
+    "target": "nghe đông hà lúa héo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "để con hát bội làm đào má coi",
+    "input": "để con hát",
+    "target": "bội làm đào má coi",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "thiếp như cơm nguội đỡ khi đói long",
+    "input": "thiếp như",
+    "target": "cơm nguội đỡ khi đói long",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "mả chưa cỏ mọc trong lòng đậu thai",
+    "input": "mả chưa cỏ",
+    "target": "mọc trong lòng đậu thai",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "một câu nhịn, chín câu lành",
+    "input": "một câu",
+    "target": "nhịn, chín câu lành",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bao giờ cạn rạch đồng nai",
+    "input": "bao giờ",
+    "target": "cạn rạch đồng nai",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "tiền nào của đó",
+    "input": "tiền nào",
+    "target": "của đó",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "thổi nồi cơm nếp vừa cười vừa ăn",
+    "input": "thổi nồi",
+    "target": "cơm nếp vừa cười vừa ăn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "cha con nhà nguyễn bế bồng nhau đi",
+    "input": "cha con nhà",
+    "target": "nguyễn bế bồng nhau đi",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "già thì đặc bí bì bì",
+    "input": "già thì",
+    "target": "đặc bí bì bì",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bởi anh đành đoạn",
+    "input": "bởi anh",
+    "target": "đành đoạn",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "oan oan tương báo , dỉ hận liên miên",
+    "input": "oan oan tương báo",
+    "target": ", dỉ hận liên miên",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "yêu nhau yêu cả đường đi, ghét nhau ghét cả tông chi họ hàng",
+    "input": "yêu nhau yêu cả đường đi,",
+    "target": "ghét nhau ghét cả tông chi họ hàng",
+    "split_ratio": 0.45,
+    "input_words": 6,
+    "target_words": 8
+  },
+  {
+    "full": "ăn cháo, đá bát",
+    "input": "ăn cháo,",
+    "target": "đá bát",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "ta về ta nhớ hàm răng mình cười",
+    "input": "ta về ta",
+    "target": "nhớ hàm răng mình cười",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "oán thù nên giải không nên kết",
+    "input": "oán thù nên",
+    "target": "giải không nên kết",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "ăn cây sung ngồi gốc cây sung",
+    "input": "ăn cây sung",
+    "target": "ngồi gốc cây sung",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "lơ mơ có kẻ mất chồng như chơi",
+    "input": "lơ mơ",
+    "target": "có kẻ mất chồng như chơi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "quỷ tha, ma bắt",
+    "input": "quỷ tha,",
+    "target": "ma bắt",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "ráng mỡ gà,có nhà thì giữ",
+    "input": "ráng mỡ",
+    "target": "gà,có nhà thì giữ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "họp chợ trên bụng hàng trăm sá gì",
+    "input": "họp chợ trên",
+    "target": "bụng hàng trăm sá gì",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "người già trang điểm phấn son cũng già",
+    "input": "người già",
+    "target": "trang điểm phấn son cũng già",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "bắt con ngựa ngựa ô, ngựa ô tra khớp",
+    "input": "bắt con",
+    "target": "ngựa ngựa ô, ngựa ô tra khớp",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 7
+  },
+  {
+    "full": "kính lão đắc thọ",
+    "input": "kính lão",
+    "target": "đắc thọ",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "ba tiền một khúc cá buôi",
+    "input": "ba tiền",
+    "target": "một khúc cá buôi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "trai lấy rồi trai lại bán rao",
+    "input": "trai lấy",
+    "target": "rồi trai lại bán rao",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "saigon, chợ mỹ ai mà không hay",
+    "input": "saigon, chợ mỹ",
+    "target": "ai mà không hay",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "anh mảng thương thầm chưa thấu dạ em",
+    "input": "anh mảng thương",
+    "target": "thầm chưa thấu dạ em",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "sinh li tử biệt",
+    "input": "sinh li",
+    "target": "tử biệt",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "con chị đi mất, anh vồ con em",
+    "input": "con chị đi",
+    "target": "mất, anh vồ con em",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "con bạn xa rồi để nhớ để thương",
+    "input": "con bạn xa",
+    "target": "rồi để nhớ để thương",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "nói yêu là ghét, nói buồn là vui",
+    "input": "nói yêu",
+    "target": "là ghét, nói buồn là vui",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "đốn ngọn cây bần",
+    "input": "đốn ngọn",
+    "target": "cây bần",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "một con sâu làm rầu nồi canh",
+    "input": "một con",
+    "target": "sâu làm rầu nồi canh",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "người khôn xem lấy đôi hàng tóc mai",
+    "input": "người khôn xem",
+    "target": "lấy đôi hàng tóc mai",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "thương sao cho được vợ người mà thương",
+    "input": "thương sao cho",
+    "target": "được vợ người mà thương",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "cha mẹ hiền lành để đức cho con",
+    "input": "cha mẹ hiền",
+    "target": "lành để đức cho con",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "con mèo mà trèo cây cau",
+    "input": "con mèo",
+    "target": "mà trèo cây cau",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chim quyên ăn trái nhãn lồng",
+    "input": "chim quyên",
+    "target": "ăn trái nhãn lồng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đồng bạc đâm toạc tờ giấy tiền bạc có thễ thay đổi luật pháp",
+    "input": "đồng bạc đâm toạc",
+    "target": "tờ giấy tiền bạc có thễ thay đổi luật pháp",
+    "split_ratio": 0.3,
+    "input_words": 4,
+    "target_words": 10
+  },
+  {
+    "full": "ở trên gia định xuống vườn thăm em",
+    "input": "ở trên",
+    "target": "gia định xuống vườn thăm em",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "giàu từ trong trứng giàu ra",
+    "input": "giàu từ",
+    "target": "trong trứng giàu ra",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đói đầu gối phải bò nghèo túng bắt buộc phải xoay xở",
+    "input": "đói đầu gối phải bò",
+    "target": "nghèo túng bắt buộc phải xoay xở",
+    "split_ratio": 0.45,
+    "input_words": 5,
+    "target_words": 7
+  },
+  {
+    "full": "cho ruột sư héo như bầu đứt dây",
+    "input": "cho ruột",
+    "target": "sư héo như bầu đứt dây",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "cá tươi xem lấy đôi mang",
+    "input": "cá tươi",
+    "target": "xem lấy đôi mang",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ầu ơ... ví dầu tình bậu muốn thôi",
+    "input": "ầu ơ...",
+    "target": "ví dầu tình bậu muốn thôi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "đổi trắng thay đen người ngược ngạo",
+    "input": "đổi trắng thay",
+    "target": "đen người ngược ngạo",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "trăm đường tránh không khỏi số",
+    "input": "trăm đường",
+    "target": "tránh không khỏi số",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "em ra canh lính cho anh leo tường",
+    "input": "em ra canh",
+    "target": "lính cho anh leo tường",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "của người thì thả cho bò ăn no",
+    "input": "của người",
+    "target": "thì thả cho bò ăn no",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "còn đêm nay nữa mai đi",
+    "input": "còn đêm",
+    "target": "nay nữa mai đi",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "khôn không qua lẽ, khỏe chẳng qua lời",
+    "input": "khôn không",
+    "target": "qua lẽ, khỏe chẳng qua lời",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "bớ cô gánh nước bên bờ",
+    "input": "bớ cô",
+    "target": "gánh nước bên bờ",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ầu ơ... bồng bống bông bong",
+    "input": "ầu ơ...",
+    "target": "bồng bống bông bong",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "phép vua thua lệ làng",
+    "input": "phép vua",
+    "target": "thua lệ làng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "trai nam nhi không đối đặng",
+    "input": "trai nam",
+    "target": "nhi không đối đặng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "hễ anh gỡ được, thì nàng lấy anh",
+    "input": "hễ anh gỡ",
+    "target": "được, thì nàng lấy anh",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "yêu nhau cau sáu bổ ba, ghét nhau cau sáu bổ ra làm mười",
+    "input": "yêu nhau cau sáu",
+    "target": "bổ ba, ghét nhau cau sáu bổ ra làm mười",
+    "split_ratio": 0.3,
+    "input_words": 4,
+    "target_words": 10
+  },
+  {
+    "full": "chú chuột đi chợ đường xa",
+    "input": "chú chuột",
+    "target": "đi chợ đường xa",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "sương sa lác đác khói bay mịt mờ",
+    "input": "sương sa lác",
+    "target": "đác khói bay mịt mờ",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "sông cạn đá mòn",
+    "input": "sông cạn",
+    "target": "đá mòn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "nắm đuôi chị lại hỏi nhà chị đâủ",
+    "input": "nắm đuôi",
+    "target": "chị lại hỏi nhà chị đâủ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "đó đây trước lạ sau quen",
+    "input": "đó đây",
+    "target": "trước lạ sau quen",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ăn cây sung ngồi gốc cây sung",
+    "input": "ăn cây",
+    "target": "sung ngồi gốc cây sung",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "của phù vân để ngoài ngõ",
+    "input": "của phù",
+    "target": "vân để ngoài ngõ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "rau răm ở lại chịu lời đắng cay",
+    "input": "rau răm",
+    "target": "ở lại chịu lời đắng cay",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "bao nhiêu tấc đất tấc vàng bấy nhiêu",
+    "input": "bao nhiêu tấc",
+    "target": "đất tấc vàng bấy nhiêu",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ai phụ tôi có đất trời chứng giám",
+    "input": "ai phụ",
+    "target": "tôi có đất trời chứng giám",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "có thằng chồng say như trong chay ngoài hội",
+    "input": "có thằng chồng say",
+    "target": "như trong chay ngoài hội",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "một duyên, hai nợ, ba tình",
+    "input": "một duyên,",
+    "target": "hai nợ, ba tình",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đất có lề, quê có thói",
+    "input": "đất có",
+    "target": "lề, quê có thói",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ma đưa lối, quỷ dẫn đường",
+    "input": "ma đưa",
+    "target": "lối, quỷ dẫn đường",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "việc nước trước việc nhà",
+    "input": "việc nước",
+    "target": "trước việc nhà",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "mẹ già anh ở nơi nao",
+    "input": "mẹ già",
+    "target": "anh ở nơi nao",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "em có chồng sao em không nói",
+    "input": "em có",
+    "target": "chồng sao em không nói",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "như cây có cội, như sông có nguồn",
+    "input": "như cây",
+    "target": "có cội, như sông có nguồn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "hay ăn thời có gạo kho",
+    "input": "hay ăn",
+    "target": "thời có gạo kho",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "muốn vô gá nghĩa, biết là đặng chăng",
+    "input": "muốn vô",
+    "target": "gá nghĩa, biết là đặng chăng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "dựa lưng nàng như uống chén rượu ngon",
+    "input": "dựa lưng nàng",
+    "target": "như uống chén rượu ngon",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "vợ già, chồng trẻ là tiên ba đời",
+    "input": "vợ già, chồng",
+    "target": "trẻ là tiên ba đời",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "bóng cây anh ngỡ bóng thuyền em sang",
+    "input": "bóng cây",
+    "target": "anh ngỡ bóng thuyền em sang",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "đem bỏ vào lồng cho kiến nó tha",
+    "input": "đem bỏ",
+    "target": "vào lồng cho kiến nó tha",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "công thì thưởng, tội thì trừng",
+    "input": "công thì",
+    "target": "thưởng, tội thì trừng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đố ai quét sạch lá rừng",
+    "input": "đố ai",
+    "target": "quét sạch lá rừng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
+    "input": "một cây làm chẳng",
+    "target": "nên non, ba cây chụm lại nên hòn núi cao",
+    "split_ratio": 0.3,
+    "input_words": 4,
+    "target_words": 10
+  },
+  {
+    "full": "nhìn mình cho tỏ trước sau hãy cười",
+    "input": "nhìn mình cho",
+    "target": "tỏ trước sau hãy cười",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "tay đâu mà búm miệng người thế gian",
+    "input": "tay đâu mà",
+    "target": "búm miệng người thế gian",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "gừng cay muối mặn",
+    "input": "gừng cay",
+    "target": "muối mặn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "chén tình là chén say sưa",
+    "input": "chén tình",
+    "target": "là chén say sưa",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ăn đi giỗ trước, lội nước theo sau",
+    "input": "ăn đi",
+    "target": "giỗ trước, lội nước theo sau",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "của chua ai nấy cũng them",
+    "input": "của chua",
+    "target": "ai nấy cũng them",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "học thầy không tày học bạn",
+    "input": "học thầy",
+    "target": "không tày học bạn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "giọt máu đào hơn ao nước lã",
+    "input": "giọt máu",
+    "target": "đào hơn ao nước lã",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "nữ nhi sánh với anh hùng được nao",
+    "input": "nữ nhi",
+    "target": "sánh với anh hùng được nao",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "gái tầm vu đồng xu ba đứa",
+    "input": "gái tầm vu",
+    "target": "đồng xu ba đứa",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "ba phần ruộng trẻo chẳng ma nào cày",
+    "input": "ba phần ruộng",
+    "target": "trẻo chẳng ma nào cày",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "để khuya em đắp gió khuya lạnh lung",
+    "input": "để khuya",
+    "target": "em đắp gió khuya lạnh lung",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "tôm đi chạng vạng, cá đi rạng đông",
+    "input": "tôm đi",
+    "target": "chạng vạng, cá đi rạng đông",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "chén tình là chén say sưa",
+    "input": "chén tình",
+    "target": "là chén say sưa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bỏ tiêu cho ngọt, bỏ hành cho thơm",
+    "input": "bỏ tiêu cho",
+    "target": "ngọt, bỏ hành cho thơm",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ăn vặt quen mồm",
+    "input": "ăn vặt",
+    "target": "quen mồm",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "chồng chung chồng chạ",
+    "input": "chồng chung",
+    "target": "chồng chạ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "bực mình chẳng muốn nói ra",
+    "input": "bực mình",
+    "target": "chẳng muốn nói ra",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "giao trứng cho ác",
+    "input": "giao trứng",
+    "target": "cho ác",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "buồng không lần lữa hôm mai",
+    "input": "buồng không",
+    "target": "lần lữa hôm mai",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "cây vông đồng không không trồng mà mọc",
+    "input": "cây vông",
+    "target": "đồng không không trồng mà mọc",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "đêm khuya ra đứng bờ ao",
+    "input": "đêm khuya",
+    "target": "ra đứng bờ ao",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "sau nhà cô huệ có nhiều gà con",
+    "input": "sau nhà cô",
+    "target": "huệ có nhiều gà con",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ngọn lang dâm, ngọn mía cũng dâm",
+    "input": "ngọn lang dâm,",
+    "target": "ngọn mía cũng dâm",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "tưởng sự lấy chồng, tỉnh như con sáo",
+    "input": "tưởng sự",
+    "target": "lấy chồng, tỉnh như con sáo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "giàu cô giàu bác ai làm nấy ăn",
+    "input": "giàu cô",
+    "target": "giàu bác ai làm nấy ăn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "con ơi học lấy nghề cha",
+    "input": "con ơi",
+    "target": "học lấy nghề cha",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đồng tiền lúa thóc, mười phần được ba",
+    "input": "đồng tiền",
+    "target": "lúa thóc, mười phần được ba",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "nuôi ong tay áo, nuôi cáo trong nhà",
+    "input": "nuôi ong tay",
+    "target": "áo, nuôi cáo trong nhà",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "cây xanh thời lá cũng xanh",
+    "input": "cây xanh",
+    "target": "thời lá cũng xanh",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chàng về để áo lại đây",
+    "input": "chàng về",
+    "target": "để áo lại đây",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đói đầu gối phải bò nghèo túng bắt buộc phải xoay xở",
+    "input": "đói đầu gối",
+    "target": "phải bò nghèo túng bắt buộc phải xoay xở",
+    "split_ratio": 0.3,
+    "input_words": 3,
+    "target_words": 9
+  },
+  {
+    "full": "tôm đi chạng vạng, cá đi rạng đông",
+    "input": "tôm đi chạng",
+    "target": "vạng, cá đi rạng đông",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "hai đánh một không chột cũng què",
+    "input": "hai đánh một",
+    "target": "không chột cũng què",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "nhất cận thị, nhị cận giang",
+    "input": "nhất cận",
+    "target": "thị, nhị cận giang",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "còn trời còn nước còn non",
+    "input": "còn trời",
+    "target": "còn nước còn non",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ăn cháo, đá bát",
+    "input": "ăn cháo,",
+    "target": "đá bát",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "của người thì thả cho bò ăn no",
+    "input": "của người thì",
+    "target": "thả cho bò ăn no",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "đời cha ăn mặn, đời con khát nước",
+    "input": "đời cha ăn",
+    "target": "mặn, đời con khát nước",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "chết sau nằm ngả, nằm nghiêng",
+    "input": "chết sau",
+    "target": "nằm ngả, nằm nghiêng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "gái nào bảnh bằng gái nha mân",
+    "input": "gái nào",
+    "target": "bảnh bằng gái nha mân",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "gạn đục, khơi trong",
+    "input": "gạn đục,",
+    "target": "khơi trong",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "ngọt mật chết ruồi",
+    "input": "ngọt mật",
+    "target": "chết ruồi",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "anh thương em cho bạc cho tiền",
+    "input": "anh thương em",
+    "target": "cho bạc cho tiền",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "đói ăn vụng, túng làm liều khi thiếu thốn khiến người ta làm việc phi pháp bất lương",
+    "input": "đói ăn vụng, túng làm",
+    "target": "liều khi thiếu thốn khiến người ta làm việc phi pháp bất lương",
+    "split_ratio": 0.3,
+    "input_words": 5,
+    "target_words": 13
+  },
+  {
+    "full": "đứng núi này trông núi nọ không an phận, lúc nào cũng phân bì",
+    "input": "đứng núi này trông núi nọ",
+    "target": "không an phận, lúc nào cũng phân bì",
+    "split_ratio": 0.45,
+    "input_words": 6,
+    "target_words": 8
+  },
+  {
+    "full": "mận hỏi thời đào xin thưa",
+    "input": "mận hỏi",
+    "target": "thời đào xin thưa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ao có bờ, sông có bến",
+    "input": "ao có",
+    "target": "bờ, sông có bến",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đến đây đất nước lạ lùng",
+    "input": "đến đây",
+    "target": "đất nước lạ lùng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bao giờ trích đẻ ngọn đa",
+    "input": "bao giờ",
+    "target": "trích đẻ ngọn đa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "hỏi thăm chú chuột đi đâu vắng nhà",
+    "input": "hỏi thăm",
+    "target": "chú chuột đi đâu vắng nhà",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "có em anh mới sớm khuya chốn này",
+    "input": "có em",
+    "target": "anh mới sớm khuya chốn này",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "giàu cô giàu bác ai làm nấy ăn",
+    "input": "giàu cô giàu",
+    "target": "bác ai làm nấy ăn",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "chơi xuân kẻo hết xuân đi",
+    "input": "chơi xuân",
+    "target": "kẻo hết xuân đi",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "trăm hay không bằng tay quen",
+    "input": "trăm hay",
+    "target": "không bằng tay quen",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "mặc ai ai thẳng ai dùn mặc ai",
+    "input": "mặc ai",
+    "target": "ai thẳng ai dùn mặc ai",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "đèn mỹ tho ngọn tỏ ngọn lu",
+    "input": "đèn mỹ",
+    "target": "tho ngọn tỏ ngọn lu",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "bắt được con trắm con trê",
+    "input": "bắt được",
+    "target": "con trắm con trê",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bà già đã tám mươi tư",
+    "input": "bà già",
+    "target": "đã tám mươi tư",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "con nào độc hiểm, em nghiền ra tro",
+    "input": "con nào độc",
+    "target": "hiểm, em nghiền ra tro",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ai nhứt thì tôi đứng nhì",
+    "input": "ai nhứt",
+    "target": "thì tôi đứng nhì",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đàn gảy tai trâu",
+    "input": "đàn gảy",
+    "target": "tai trâu",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "được chim bẻ ná, được cá quên nơm được việc rồi, quên ơn, bỏ người đã giúp mình nên việc",
+    "input": "được chim bẻ ná, được cá quên nơm được",
+    "target": "việc rồi, quên ơn, bỏ người đã giúp mình nên việc",
+    "split_ratio": 0.45,
+    "input_words": 9,
+    "target_words": 11
+  },
+  {
+    "full": "được chim bẻ ná, được cá quên nơm được việc rồi, quên ơn, bỏ người đã giúp mình nên việc",
+    "input": "được chim bẻ ná, được cá",
+    "target": "quên nơm được việc rồi, quên ơn, bỏ người đã giúp mình nên việc",
+    "split_ratio": 0.3,
+    "input_words": 6,
+    "target_words": 14
+  },
+  {
+    "full": "đỏ mồng xanh kiếng",
+    "input": "đỏ mồng",
+    "target": "xanh kiếng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "biển sâu, con cá lớn vẫy vùng",
+    "input": "biển sâu, con",
+    "target": "cá lớn vẫy vùng",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "khỉ ho cò gáy",
+    "input": "khỉ ho",
+    "target": "cò gáy",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "đâm lao phải theo lao lỡ làm ra việc gì, dù khổ cũng phải theo",
+    "input": "đâm lao phải theo",
+    "target": "lao lỡ làm ra việc gì, dù khổ cũng phải theo",
+    "split_ratio": 0.3,
+    "input_words": 4,
+    "target_words": 11
+  },
+  {
+    "full": "giấm thanh đổ biển mấy thùng cho chua",
+    "input": "giấm thanh đổ",
+    "target": "biển mấy thùng cho chua",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "con mèo con chuột có long",
+    "input": "con mèo",
+    "target": "con chuột có long",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đã đan thì lặn, tròn vành mới thôi",
+    "input": "đã đan",
+    "target": "thì lặn, tròn vành mới thôi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "đứt dây động rừng nói một người, người khác nghĩ ngợi",
+    "input": "đứt dây động rừng",
+    "target": "nói một người, người khác nghĩ ngợi",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 7
+  },
+  {
+    "full": "không ăn không ngủ, mất tiền thêm lo",
+    "input": "không ăn",
+    "target": "không ngủ, mất tiền thêm lo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "bậu buồn, qua dễ chẳng buồn",
+    "input": "bậu buồn,",
+    "target": "qua dễ chẳng buồn",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "gỗ huỳnh đàn cậy thơm",
+    "input": "gỗ huỳnh",
+    "target": "đàn cậy thơm",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "dầu cù là hiệu ông tiên",
+    "input": "dầu cù",
+    "target": "là hiệu ông tiên",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "cái ngủ mày ngủ cho lâu",
+    "input": "cái ngủ",
+    "target": "mày ngủ cho lâu",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chồng chài, vợ lưới con câu",
+    "input": "chồng chài,",
+    "target": "vợ lưới con câu",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chiều chiều, ông chánh về tây",
+    "input": "chiều chiều,",
+    "target": "ông chánh về tây",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ai đó lau chùi, biết tới buổi nào xong",
+    "input": "ai đó",
+    "target": "lau chùi, biết tới buổi nào xong",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 7
+  },
+  {
+    "full": "ôm bụng trống chầu, bỏ xứ ra đi",
+    "input": "ôm bụng",
+    "target": "trống chầu, bỏ xứ ra đi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "ai kêu là rạch, em gọi là song",
+    "input": "ai kêu là",
+    "target": "rạch, em gọi là song",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "bắp non mà nướng lửa lò",
+    "input": "bắp non",
+    "target": "mà nướng lửa lò",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "góp gió thành bão",
+    "input": "góp gió",
+    "target": "thành bão",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "tốt danh hơn lành áo",
+    "input": "tốt danh",
+    "target": "hơn lành áo",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "hườn xuyến vuột tay rồi, buồn nghiến, ai thương",
+    "input": "hườn xuyến",
+    "target": "vuột tay rồi, buồn nghiến, ai thương",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 7
+  },
+  {
+    "full": "trâu buộc ghét trâu ăn",
+    "input": "trâu buộc",
+    "target": "ghét trâu ăn",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "cần thơ là tỉnh",
+    "input": "cần thơ",
+    "target": "là tỉnh",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "gái má hồng xin thử đối xem",
+    "input": "gái má",
+    "target": "hồng xin thử đối xem",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "lá lành đùm lá rách",
+    "input": "lá lành",
+    "target": "đùm lá rách",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "có cây mới có dây leo",
+    "input": "có cây",
+    "target": "mới có dây leo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "cháu ơi cháu ngủ cho ngon",
+    "input": "cháu ơi",
+    "target": "cháu ngủ cho ngon",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bà già đi chợ cầu bông",
+    "input": "bà già",
+    "target": "đi chợ cầu bông",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "là anh trần bình",
+    "input": "là anh",
+    "target": "trần bình",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "bì con ông lái với tôi chân sào",
+    "input": "bì con",
+    "target": "ông lái với tôi chân sào",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "cái răng, ba láng, vàm xáng, xà no",
+    "input": "cái răng, ba",
+    "target": "láng, vàm xáng, xà no",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "học mười năm biết một ngu si",
+    "input": "học mười năm",
+    "target": "biết một ngu si",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "bà già đã tám mươi tư",
+    "input": "bà già",
+    "target": "đã tám mươi tư",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "còn tiền kẻ rước, người mời",
+    "input": "còn tiền",
+    "target": "kẻ rước, người mời",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "nước lã không huấy nên hồ",
+    "input": "nước lã",
+    "target": "không huấy nên hồ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "buồn ngủ lại gặp chiếu manh",
+    "input": "buồn ngủ",
+    "target": "lại gặp chiếu manh",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "kêu mau đến tết, dựng nêu ăn chè",
+    "input": "kêu mau đến",
+    "target": "tết, dựng nêu ăn chè",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "biên hòa có bưởi thanh trà",
+    "input": "biên hòa",
+    "target": "có bưởi thanh trà",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chồng thấp mà vợ lại cao",
+    "input": "chồng thấp",
+    "target": "mà vợ lại cao",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "vợ già, chồng trẻ là duyên trên đời",
+    "input": "vợ già, chồng",
+    "target": "trẻ là duyên trên đời",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "đêm ngắn, ngày dài, thua thiệt người ta",
+    "input": "đêm ngắn,",
+    "target": "ngày dài, thua thiệt người ta",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "giả đò mua khế bán chanh",
+    "input": "giả đò",
+    "target": "mua khế bán chanh",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bây giờ chàng đã nghe ai",
+    "input": "bây giờ",
+    "target": "chàng đã nghe ai",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bạn nghèo thuở trước chớ quên",
+    "input": "bạn nghèo",
+    "target": "thuở trước chớ quên",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "anh nói với em nhiều tiếng thâm trầm",
+    "input": "anh nói",
+    "target": "với em nhiều tiếng thâm trầm",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "măng mọc có lứa người ta có thì",
+    "input": "măng mọc",
+    "target": "có lứa người ta có thì",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "thì trời giáng hạ cây khoai giữa đồng",
+    "input": "thì trời",
+    "target": "giáng hạ cây khoai giữa đồng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "bây giờ gặp phải hội này",
+    "input": "bây giờ",
+    "target": "gặp phải hội này",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bước vô trường án, vỗ ván cái rầm",
+    "input": "bước vô trường",
+    "target": "án, vỗ ván cái rầm",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "khi yêu trái ấu cũng tròn, ghét nhau bồ hòn cũng méo",
+    "input": "khi yêu trái ấu cũng",
+    "target": "tròn, ghét nhau bồ hòn cũng méo",
+    "split_ratio": 0.45,
+    "input_words": 5,
+    "target_words": 7
+  },
+  {
+    "full": "khi trời gió bão ầm ầm",
+    "input": "khi trời",
+    "target": "gió bão ầm ầm",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "không có gì tự nhiên có",
+    "input": "không có",
+    "target": "gì tự nhiên có",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "gan teo mấy đoạn, ruột thắt mấy từng",
+    "input": "gan teo",
+    "target": "mấy đoạn, ruột thắt mấy từng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "bà con khó xin đừng bỏ",
+    "input": "bà con",
+    "target": "khó xin đừng bỏ",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "thua keo này bày keo khác",
+    "input": "thua keo",
+    "target": "này bày keo khác",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "vợ cùng kham khổ, chẳng nên phụ tình",
+    "input": "vợ cùng",
+    "target": "kham khổ, chẳng nên phụ tình",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "nói người phải nghĩ đến ta, sờ vào sau gáy xem xa hay gần",
+    "input": "nói người phải nghĩ đến ta,",
+    "target": "sờ vào sau gáy xem xa hay gần",
+    "split_ratio": 0.45,
+    "input_words": 6,
+    "target_words": 8
+  },
+  {
+    "full": "giàu từ trong trứng giàu ra",
+    "input": "giàu từ",
+    "target": "trong trứng giàu ra",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "công anh chẻ nứa đan bồ",
+    "input": "công anh",
+    "target": "chẻ nứa đan bồ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "trăm người bán vạn người mua",
+    "input": "trăm người",
+    "target": "bán vạn người mua",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chó không chê chủ nhà nghèo",
+    "input": "chó không",
+    "target": "chê chủ nhà nghèo",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ai mà nói dối cùng ai",
+    "input": "ai mà",
+    "target": "nói dối cùng ai",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bắc thang lên hái hoa vàng",
+    "input": "bắc thang",
+    "target": "lên hái hoa vàng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "anh ơi em chẳng lấy đâu",
+    "input": "anh ơi",
+    "target": "em chẳng lấy đâu",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ba trăng là mấy mươi hôm",
+    "input": "ba trăng",
+    "target": "là mấy mươi hôm",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chết trước được mồ, được mả",
+    "input": "chết trước",
+    "target": "được mồ, được mả",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đôi ta như thể con bài",
+    "input": "đôi ta",
+    "target": "như thể con bài",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "anh ơi anh ở lại nhà",
+    "input": "anh ơi",
+    "target": "anh ở lại nhà",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "nửa đêm nó bắn rung rinh cái giường",
+    "input": "nửa đêm",
+    "target": "nó bắn rung rinh cái giường",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "anh ơi, anh giận em chi",
+    "input": "anh ơi,",
+    "target": "anh giận em chi",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "oán không giải được oán",
+    "input": "oán không",
+    "target": "giải được oán",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "ngưu tầm ngưu, mã tầm mã",
+    "input": "ngưu tầm",
+    "target": "ngưu, mã tầm mã",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "anh đi lục tỉnh giáp vòng",
+    "input": "anh đi",
+    "target": "lục tỉnh giáp vòng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ăn trái nhớ kẻ trồng cây",
+    "input": "ăn trái",
+    "target": "nhớ kẻ trồng cây",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "người dưng khác họ đem lòng nhớ thương",
+    "input": "người dưng khác",
+    "target": "họ đem lòng nhớ thương",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "quân tử trả thù mười năm chưa muộn",
+    "input": "quân tử trả",
+    "target": "thù mười năm chưa muộn",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "để cho con sáo sổ lồng bay cao",
+    "input": "để cho con",
+    "target": "sáo sổ lồng bay cao",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "một thằng tính bằng chín thằng làm",
+    "input": "một thằng",
+    "target": "tính bằng chín thằng làm",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "em buồn như ngọn nhang tàn thắp khuya",
+    "input": "em buồn",
+    "target": "như ngọn nhang tàn thắp khuya",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "dốc một lòng lấy chồng hay chữ",
+    "input": "dốc một",
+    "target": "lòng lấy chồng hay chữ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "rừng vàng, biển bạc",
+    "input": "rừng vàng,",
+    "target": "biển bạc",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "đi chùa lạy phật cầu chồng",
+    "input": "đi chùa",
+    "target": "lạy phật cầu chồng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bươm bướm mà đậu cành bong",
+    "input": "bươm bướm",
+    "target": "mà đậu cành bong",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bữa ăn có cá cùng canh",
+    "input": "bữa ăn",
+    "target": "có cá cùng canh",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "công anh chẻ nứa đan bồ",
+    "input": "công anh",
+    "target": "chẻ nứa đan bồ",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "con lợn ủn ỉn mua hành cho tôi",
+    "input": "con lợn",
+    "target": "ủn ỉn mua hành cho tôi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "nói lời phải giữ lấy lời",
+    "input": "nói lời",
+    "target": "phải giữ lấy lời",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "có tội đẻ con hay trèo",
+    "input": "có tội",
+    "target": "đẻ con hay trèo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "anh chưa mát dạ bằng anh thấy nàng",
+    "input": "anh chưa mát",
+    "target": "dạ bằng anh thấy nàng",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "tốt danh hơn lành áo",
+    "input": "tốt danh",
+    "target": "hơn lành áo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "gánh vừa lon gạo thì thằng tây ở tù",
+    "input": "gánh vừa lon gạo",
+    "target": "thì thằng tây ở tù",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "vàng cầm trên tay rớt xuống không phiền",
+    "input": "vàng cầm trên",
+    "target": "tay rớt xuống không phiền",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "nước phông tên tiền rưỡi một đôi",
+    "input": "nước phông",
+    "target": "tên tiền rưỡi một đôi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "con gái xóm này chẳng chọc mà theo",
+    "input": "con gái",
+    "target": "xóm này chẳng chọc mà theo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "ra ngồi chỗ nắng trách trời không mây",
+    "input": "ra ngồi chỗ",
+    "target": "nắng trách trời không mây",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "vườn hồng đã có ai vào hay chưa",
+    "input": "vườn hồng đã",
+    "target": "có ai vào hay chưa",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "thất bại là mẹ thành công",
+    "input": "thất bại",
+    "target": "là mẹ thành công",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ta về, ta sắm cần câu",
+    "input": "ta về,",
+    "target": "ta sắm cần câu",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "giống rồng lại đẻ ra rồng",
+    "input": "giống rồng",
+    "target": "lại đẻ ra rồng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "có đâu chanh, khế sánh phần lựu lể",
+    "input": "có đâu chanh,",
+    "target": "khế sánh phần lựu lể",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "tình thương quán cũng là nhà, lều tranh có nghĩa hơn tòa ngói cao",
+    "input": "tình thương quán cũng",
+    "target": "là nhà, lều tranh có nghĩa hơn tòa ngói cao",
+    "split_ratio": 0.3,
+    "input_words": 4,
+    "target_words": 10
+  },
+  {
+    "full": "học đi đôi với hành",
+    "input": "học đi",
+    "target": "đôi với hành",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "mừng cây rồi lại mừng cành",
+    "input": "mừng cây",
+    "target": "rồi lại mừng cành",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đàn bà tốt tóc thì sang",
+    "input": "đàn bà",
+    "target": "tốt tóc thì sang",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ai thương ai cảm ai nhớ ai trông",
+    "input": "ai thương",
+    "target": "ai cảm ai nhớ ai trông",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "thì vô đồng tháp ăn no đã thèm",
+    "input": "thì vô đồng",
+    "target": "tháp ăn no đã thèm",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "day qua bên mặt gặp mười mũi giáo",
+    "input": "day qua",
+    "target": "bên mặt gặp mười mũi giáo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "trâu cột ghét trâu ăn",
+    "input": "trâu cột",
+    "target": "ghét trâu ăn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "xứ nào dốc bằng xứ nam vang",
+    "input": "xứ nào dốc",
+    "target": "bằng xứ nam vang",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "thương em đứt ruột, nhưng tới gần lại run",
+    "input": "thương em đứt ruột,",
+    "target": "nhưng tới gần lại run",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "cái già sòng sọc nó thì theo sau",
+    "input": "cái già sòng",
+    "target": "sọc nó thì theo sau",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "một tiếng anh than ba bốn đôi vàng em không tiếc",
+    "input": "một tiếng anh",
+    "target": "than ba bốn đôi vàng em không tiếc",
+    "split_ratio": 0.3,
+    "input_words": 3,
+    "target_words": 8
+  },
+  {
+    "full": "biết sông mấy khúc, biết mây mấy từng",
+    "input": "biết sông mấy",
+    "target": "khúc, biết mây mấy từng",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "đồng hồ điểm nhặt nhớ chàng không quên",
+    "input": "đồng hồ",
+    "target": "điểm nhặt nhớ chàng không quên",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "mà vấp phải đá mà quàng phải dây",
+    "input": "mà vấp",
+    "target": "phải đá mà quàng phải dây",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "của mình mình giữ bo bo",
+    "input": "của mình",
+    "target": "mình giữ bo bo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "có gió giông hung mới biết tùng bá cứng",
+    "input": "có gió",
+    "target": "giông hung mới biết tùng bá cứng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 7
+  },
+  {
+    "full": "anh muốn vợ bé, em thì lấy cho",
+    "input": "anh muốn vợ",
+    "target": "bé, em thì lấy cho",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "mẹ già không thể sống đời với con",
+    "input": "mẹ già không",
+    "target": "thể sống đời với con",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "đêm nằm tàu chuối có đôi",
+    "input": "đêm nằm",
+    "target": "tàu chuối có đôi",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "gái má hồng xin thử đối xem",
+    "input": "gái má hồng",
+    "target": "xin thử đối xem",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "cái huyện hà đông để cho ông bao công xử kiện",
+    "input": "cái huyện hà đông",
+    "target": "để cho ông bao công xử kiện",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 7
+  },
+  {
+    "full": "chuột kêu chút chít trong rương",
+    "input": "chuột kêu",
+    "target": "chút chít trong rương",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "vốn không thả lý, gieo đào như ai",
+    "input": "vốn không",
+    "target": "thả lý, gieo đào như ai",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "trăm nghìn năm trước biết là của ai",
+    "input": "trăm nghìn",
+    "target": "năm trước biết là của ai",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "xa mặt cách lòng",
+    "input": "xa mặt",
+    "target": "cách lòng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "như đôi đũa lệch biết sao so bằng",
+    "input": "như đôi đũa",
+    "target": "lệch biết sao so bằng",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "phải duyên thì kết, phải lòng thì thương",
+    "input": "phải duyên thì",
+    "target": "kết, phải lòng thì thương",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "một lòng thờ mẹ kính cha",
+    "input": "một lòng",
+    "target": "thờ mẹ kính cha",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "trúc trở về, mai nhớ trúc không",
+    "input": "trúc trở về,",
+    "target": "mai nhớ trúc không",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "kêu sao cho quân tử nghe cùng",
+    "input": "kêu sao cho",
+    "target": "quân tử nghe cùng",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "quân tử phòng thân tiểu nhân phòng bị, gậy",
+    "input": "quân tử phòng thân",
+    "target": "tiểu nhân phòng bị, gậy",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "đánh chết, mà nết không chừa",
+    "input": "đánh chết,",
+    "target": "mà nết không chừa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "hái rau rau héo, hỏi sao mẹ dùng hả con",
+    "input": "hái rau rau héo,",
+    "target": "hỏi sao mẹ dùng hả con",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 6
+  },
+  {
+    "full": "trước làm đẹp mặt nở mày mẹ cha",
+    "input": "trước làm đẹp",
+    "target": "mặt nở mày mẹ cha",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "qua không bỏ bậu, sao bậu đành bỏ quả",
+    "input": "qua không bỏ bậu,",
+    "target": "sao bậu đành bỏ quả",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "bóng trăng anh tưởng bóng đèn",
+    "input": "bóng trăng",
+    "target": "anh tưởng bóng đèn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đàn kêu tích tịch tình tang",
+    "input": "đàn kêu",
+    "target": "tích tịch tình tang",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ăn đong cho đáng ăn đong",
+    "input": "ăn đong",
+    "target": "cho đáng ăn đong",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "áo anh đứt chỉ đường tà",
+    "input": "áo anh",
+    "target": "đứt chỉ đường tà",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "gẫm xem sự thế nực cười",
+    "input": "gẫm xem",
+    "target": "sự thế nực cười",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bao giờ mưa thuận gió hòa",
+    "input": "bao giờ",
+    "target": "mưa thuận gió hòa",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đi buôn cau héo có buồn hay không",
+    "input": "đi buôn cau",
+    "target": "héo có buồn hay không",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ông nói chó,bà nói mèo",
+    "input": "ông nói",
+    "target": "chó,bà nói mèo",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "gió đưa mụ đội lên dinh",
+    "input": "gió đưa",
+    "target": "mụ đội lên dinh",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ăn trông nồi, ngồi trông hướng",
+    "input": "ăn trông",
+    "target": "nồi, ngồi trông hướng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "con chim chích chòe",
+    "input": "con chim",
+    "target": "chích chòe",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "em lấy giò mèo em gặm em chơi",
+    "input": "em lấy",
+    "target": "giò mèo em gặm em chơi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "đường xa, dặm vắng xin anh đừng về",
+    "input": "đường xa,",
+    "target": "dặm vắng xin anh đừng về",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "kết thù làm bạn",
+    "input": "kết thù",
+    "target": "làm bạn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "nam thực như hổ, nữ thực như miêu",
+    "input": "nam thực như",
+    "target": "hổ, nữ thực như miêu",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "a di đà phật, con thầy thầy nuôi",
+    "input": "a di",
+    "target": "đà phật, con thầy thầy nuôi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "gặp rồi mỗi đứa một nơi sao đành",
+    "input": "gặp rồi",
+    "target": "mỗi đứa một nơi sao đành",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "thương em đứt ruột, nhưng tới gần lại run",
+    "input": "thương em",
+    "target": "đứt ruột, nhưng tới gần lại run",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 7
+  },
+  {
+    "full": "bé cay bé đắng bé xiêu lòng người",
+    "input": "bé cay",
+    "target": "bé đắng bé xiêu lòng người",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "cha mẹ cú, đẻ con tiên",
+    "input": "cha mẹ",
+    "target": "cú, đẻ con tiên",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "được tiếng khen ho hen chẳng còn được khen, nhưng mình mất quá nhiều công sức",
+    "input": "được tiếng khen ho",
+    "target": "hen chẳng còn được khen, nhưng mình mất quá nhiều công sức",
+    "split_ratio": 0.3,
+    "input_words": 4,
+    "target_words": 12
+  },
+  {
+    "full": "anh gặp em hồi đứng bóng đang trưa",
+    "input": "anh gặp",
+    "target": "em hồi đứng bóng đang trưa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "lấy anh thì lấy, nằm chung không nằm",
+    "input": "lấy anh thì",
+    "target": "lấy, nằm chung không nằm",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "con ơi nhớ lấy câu này",
+    "input": "con ơi",
+    "target": "nhớ lấy câu này",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "nhà tao chín đụn, mười trâu",
+    "input": "nhà tao",
+    "target": "chín đụn, mười trâu",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chồng em đâu phải trâu cày",
+    "input": "chồng em",
+    "target": "đâu phải trâu cày",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "em là con gái nhà hèn",
+    "input": "em là",
+    "target": "con gái nhà hèn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "tuổi em còn bé chưa từng đi buôn",
+    "input": "tuổi em",
+    "target": "còn bé chưa từng đi buôn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "năm nắng mười mưa",
+    "input": "năm nắng",
+    "target": "mười mưa",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "bên lở thì đục, bên bồi thì trong",
+    "input": "bên lở thì",
+    "target": "đục, bên bồi thì trong",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "bây giờ sự đã nhạt nhùn",
+    "input": "bây giờ",
+    "target": "sự đã nhạt nhùn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "hi sinh đời bố, củng cố đời con",
+    "input": "hi sinh đời",
+    "target": "bố, củng cố đời con",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "chín trăng em cũng đợi, mười thu em cũng chờ",
+    "input": "chín trăng em",
+    "target": "cũng đợi, mười thu em cũng chờ",
+    "split_ratio": 0.3,
+    "input_words": 3,
+    "target_words": 7
+  },
+  {
+    "full": "câu đợi, câu chờ, câu nhớ, câu mong",
+    "input": "câu đợi, câu",
+    "target": "chờ, câu nhớ, câu mong",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "nói thì hay, bắt tay thì dở",
+    "input": "nói thì",
+    "target": "hay, bắt tay thì dở",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "biết thì thưa thốt",
+    "input": "biết thì",
+    "target": "thưa thốt",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "mau sao thì nắng, vắng sao thì mưa",
+    "input": "mau sao",
+    "target": "thì nắng, vắng sao thì mưa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "có công mài sắt, có ngày nên kim",
+    "input": "có công mài",
+    "target": "sắt, có ngày nên kim",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "cây xanh thời lá cũng xanh",
+    "input": "cây xanh",
+    "target": "thời lá cũng xanh",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "như tép rang ăn cặp với canh khoai mỡ",
+    "input": "như tép rang ăn",
+    "target": "cặp với canh khoai mỡ",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "cô ba ở lại lấy thầy thông ngôn",
+    "input": "cô ba",
+    "target": "ở lại lấy thầy thông ngôn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "hơi đâu đáy nước, mình mò bóng trăng",
+    "input": "hơi đâu",
+    "target": "đáy nước, mình mò bóng trăng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "buồn về một nỗi tháng hai",
+    "input": "buồn về",
+    "target": "một nỗi tháng hai",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "sông sâu còn có kẻ dò, đố ai lấy thước mà đo lòng người",
+    "input": "sông sâu còn có kẻ dò,",
+    "target": "đố ai lấy thước mà đo lòng người",
+    "split_ratio": 0.45,
+    "input_words": 6,
+    "target_words": 8
+  },
+  {
+    "full": "con sông bên lở, bên bồi",
+    "input": "con sông",
+    "target": "bên lở, bên bồi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "một con cá lội mấy người buông câu",
+    "input": "một con cá",
+    "target": "lội mấy người buông câu",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "liệu bề đát được thì thương",
+    "input": "liệu bề",
+    "target": "đát được thì thương",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "hễ ăn vóc học quen",
+    "input": "hễ ăn",
+    "target": "vóc học quen",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "ba năm trấn thủ lưu đồn",
+    "input": "ba năm",
+    "target": "trấn thủ lưu đồn",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "tẩm ngẩm tầm ngầm mà đấm chết voi",
+    "input": "tẩm ngẩm tầm",
+    "target": "ngầm mà đấm chết voi",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "buồn về một nỗi tháng ba",
+    "input": "buồn về",
+    "target": "một nỗi tháng ba",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "cần thơ là tỉnh",
+    "input": "cần thơ",
+    "target": "là tỉnh",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "đánh bạc cầm áo",
+    "input": "đánh bạc",
+    "target": "cầm áo",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "chồng mình lịch sự nửa người nửa ta",
+    "input": "chồng mình",
+    "target": "lịch sự nửa người nửa ta",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "chơi mà không học, mất cả tương lai",
+    "input": "chơi mà",
+    "target": "không học, mất cả tương lai",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "bấy lâu vắng mặt khát khao",
+    "input": "bấy lâu",
+    "target": "vắng mặt khát khao",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "gió đưa mụ đội lên dinh",
+    "input": "gió đưa",
+    "target": "mụ đội lên dinh",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "xức dầu thì xức, ai thèm dòm, bớ em hai",
+    "input": "xức dầu thì",
+    "target": "xức, ai thèm dòm, bớ em hai",
+    "split_ratio": 0.3,
+    "input_words": 3,
+    "target_words": 7
+  },
+  {
+    "full": "cho sung có nụ, cho hành có hoa",
+    "input": "cho sung có",
+    "target": "nụ, cho hành có hoa",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "chờ con bạn ngọc thở than đôi lời",
+    "input": "chờ con bạn",
+    "target": "ngọc thở than đôi lời",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "hết duyên ông lão cũng quơ làm chồng",
+    "input": "hết duyên ông",
+    "target": "lão cũng quơ làm chồng",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "bạn vàng lại gặp bạn vàng",
+    "input": "bạn vàng",
+    "target": "lại gặp bạn vàng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "bà già tập tễnh mua heo cưới chồng",
+    "input": "bà già",
+    "target": "tập tễnh mua heo cưới chồng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "chị lấy chồng em gặm giò heo",
+    "input": "chị lấy chồng",
+    "target": "em gặm giò heo",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "phòng khi em nhớ cầm tay đỡ buồn",
+    "input": "phòng khi em",
+    "target": "nhớ cầm tay đỡ buồn",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "tào khương nghĩa nặng, sao mầy bỏ tao",
+    "input": "tào khương nghĩa",
+    "target": "nặng, sao mầy bỏ tao",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "phải chăng chú thợ mộc với cái bào cái cưa",
+    "input": "phải chăng chú thợ",
+    "target": "mộc với cái bào cái cưa",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 6
+  },
+  {
+    "full": "một câu nhịn, chín câu lành",
+    "input": "một câu",
+    "target": "nhịn, chín câu lành",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "nuôi ong tay áo, nuôi cáo trong nhà",
+    "input": "nuôi ong",
+    "target": "tay áo, nuôi cáo trong nhà",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "những người mặt rỗ",
+    "input": "những người",
+    "target": "mặt rỗ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "ăn bữa giỗ, lỗ bữa cày",
+    "input": "ăn bữa",
+    "target": "giỗ, lỗ bữa cày",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "kiến đen tha trứng lên cao, thế nào cũng có mưa rào rất to",
+    "input": "kiến đen tha trứng lên cao,",
+    "target": "thế nào cũng có mưa rào rất to",
+    "split_ratio": 0.45,
+    "input_words": 6,
+    "target_words": 8
+  },
+  {
+    "full": "ở hiền gặp lành, ở ác gặp ác",
+    "input": "ở hiền gặp",
+    "target": "lành, ở ác gặp ác",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "đừng sáo nước đục, đau lòng cò con",
+    "input": "đừng sáo nước",
+    "target": "đục, đau lòng cò con",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "cổ tay đeo nhẫn gọi là cậu cai",
+    "input": "cổ tay đeo",
+    "target": "nhẫn gọi là cậu cai",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ăn dầm, nằm dề",
+    "input": "ăn dầm,",
+    "target": "nằm dề",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "trai chưa làm rể, gái vào làm dâu",
+    "input": "trai chưa",
+    "target": "làm rể, gái vào làm dâu",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "đèn sài gòn ngọn xanh ngọn đỏ",
+    "input": "đèn sài",
+    "target": "gòn ngọn xanh ngọn đỏ",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "em liều một trái sầu giêng",
+    "input": "em liều",
+    "target": "một trái sầu giêng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đờn cò lên trục kêu vang",
+    "input": "đờn cò",
+    "target": "lên trục kêu vang",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "cơm kể ngày, cày kể buổi",
+    "input": "cơm kể",
+    "target": "ngày, cày kể buổi",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "việc gì mà chẳng ăn no lại nằm",
+    "input": "việc gì",
+    "target": "mà chẳng ăn no lại nằm",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "không ai nói chuyện với mình cho vui",
+    "input": "không ai nói",
+    "target": "chuyện với mình cho vui",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "học tài thi phận",
+    "input": "học tài",
+    "target": "thi phận",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "mũi dại, lái phải chịu đòn",
+    "input": "mũi dại,",
+    "target": "lái phải chịu đòn",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "chim xa cành còn thương nhớ cội",
+    "input": "chim xa cành",
+    "target": "còn thương nhớ cội",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 4
+  },
+  {
+    "full": "càng gãy chân chõng, càng sai chân giường",
+    "input": "càng gãy chân",
+    "target": "chõng, càng sai chân giường",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "đêm khuya trăng dọi lầu son",
+    "input": "đêm khuya",
+    "target": "trăng dọi lầu son",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "gái thới bình lòng ngay dạ thẳng",
+    "input": "gái thới",
+    "target": "bình lòng ngay dạ thẳng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "sao cho sau trước vẹn bề mới nên",
+    "input": "sao cho",
+    "target": "sau trước vẹn bề mới nên",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "con gái bà bống thổi lửa tắt đèn",
+    "input": "con gái bà",
+    "target": "bống thổi lửa tắt đèn",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "lạnh lùng thay láng giềng ôi",
+    "input": "lạnh lùng",
+    "target": "thay láng giềng ôi",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "con trai giống mẹ khó ba đời",
+    "input": "con trai",
+    "target": "giống mẹ khó ba đời",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 5
+  },
+  {
+    "full": "bốn ông mà ngồi một bàn",
+    "input": "bốn ông",
+    "target": "mà ngồi một bàn",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "ai đem con sáo sang song",
+    "input": "ai đem",
+    "target": "con sáo sang song",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "một kho vàng không bằng một nang chữ",
+    "input": "một kho vàng",
+    "target": "không bằng một nang chữ",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "ghen lắm thì đứt ruột ra",
+    "input": "ghen lắm",
+    "target": "thì đứt ruột ra",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "đêm về em lăn lộn như con chim phượng hoàng bị tên",
+    "input": "đêm về em",
+    "target": "lăn lộn như con chim phượng hoàng bị tên",
+    "split_ratio": 0.3,
+    "input_words": 3,
+    "target_words": 9
+  },
+  {
+    "full": "đất lở chim bay",
+    "input": "đất lở",
+    "target": "chim bay",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "nhất thì, nhì thục",
+    "input": "nhất thì,",
+    "target": "nhì thục",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "cha mẹ nuôi con biển hồ lai láng",
+    "input": "cha mẹ",
+    "target": "nuôi con biển hồ lai láng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "té nước theo mưa",
+    "input": "té nước",
+    "target": "theo mưa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "nghĩa mẹ như nước trong nguồn chảy ra",
+    "input": "nghĩa mẹ",
+    "target": "như nước trong nguồn chảy ra",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "dao cau rọc lá trầu vàng",
+    "input": "dao cau",
+    "target": "rọc lá trầu vàng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "anh em bốn bể là nhà",
+    "input": "anh em",
+    "target": "bốn bể là nhà",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "gỗ cẩm lai cậy cứng",
+    "input": "gỗ cẩm",
+    "target": "lai cậy cứng",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "chim kêu, vượn hú, em nửa mừng nửa lo",
+    "input": "chim kêu, vượn hú,",
+    "target": "em nửa mừng nửa lo",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "ầu ơ... gió đưa gió đẩy về rẫy ăn còng",
+    "input": "ầu ơ... gió",
+    "target": "đưa gió đẩy về rẫy ăn còng",
+    "split_ratio": 0.3,
+    "input_words": 3,
+    "target_words": 7
+  },
+  {
+    "full": "cổ tay đeo nhẫn gọi là cậu cai",
+    "input": "cổ tay",
+    "target": "đeo nhẫn gọi là cậu cai",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 6
+  },
+  {
+    "full": "mụ đội đòi cưới con mèo cụt đuôi",
+    "input": "mụ đội đòi",
+    "target": "cưới con mèo cụt đuôi",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "buồn về một nỗi tháng ba",
+    "input": "buồn về",
+    "target": "một nỗi tháng ba",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "tim loan cháy lụn thiếp sầu tư một mình",
+    "input": "tim loan cháy lụn",
+    "target": "thiếp sầu tư một mình",
+    "split_ratio": 0.45,
+    "input_words": 4,
+    "target_words": 5
+  },
+  {
+    "full": "con rái chạy buồm",
+    "input": "con rái",
+    "target": "chạy buồm",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "kẻ cắp gặp bà già",
+    "input": "kẻ cắp",
+    "target": "gặp bà già",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "qua cầu rút ván",
+    "input": "qua cầu",
+    "target": "rút ván",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "con gái mà gả chồng xa",
+    "input": "con gái",
+    "target": "mà gả chồng xa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "con không chê cha mẹ khó",
+    "input": "con không",
+    "target": "chê cha mẹ khó",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "rau nào sâu nấy",
+    "input": "rau nào",
+    "target": "sâu nấy",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "thật thà là cha dại",
+    "input": "thật thà",
+    "target": "là cha dại",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "rau răm ở lại chịu lời đắng cay",
+    "input": "rau răm ở",
+    "target": "lại chịu lời đắng cay",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "vàng rơi không tiếc, tiếc công cầm vàng",
+    "input": "vàng rơi không",
+    "target": "tiếc, tiếc công cầm vàng",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "chơi hoa cho biết mùi hoa",
+    "input": "chơi hoa",
+    "target": "cho biết mùi hoa",
+    "split_ratio": 0.3,
+    "input_words": 2,
+    "target_words": 4
+  },
+  {
+    "full": "thùng rỗng kêu to",
+    "input": "thùng rỗng",
+    "target": "kêu to",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "con có cha mẹ đẻ",
+    "input": "con có",
+    "target": "cha mẹ đẻ",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 3
+  },
+  {
+    "full": "được ba mâm đầy",
+    "input": "được ba",
+    "target": "mâm đầy",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  },
+  {
+    "full": "ầu ơ... mẹ ơi đừng đánh con đau",
+    "input": "ầu ơ... mẹ",
+    "target": "ơi đừng đánh con đau",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "không dưng, ai dễ đặt điều cho ai",
+    "input": "không dưng, ai",
+    "target": "dễ đặt điều cho ai",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "bán cặp trâu già, mới cưới đặng em",
+    "input": "bán cặp trâu",
+    "target": "già, mới cưới đặng em",
+    "split_ratio": 0.45,
+    "input_words": 3,
+    "target_words": 5
+  },
+  {
+    "full": "đêm thanh cảnh vắng",
+    "input": "đêm thanh",
+    "target": "cảnh vắng",
+    "split_ratio": 0.45,
+    "input_words": 2,
+    "target_words": 2
+  }
+]
