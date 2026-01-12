@@ -474,7 +474,8 @@ def main():
         
         checkpoint = torch.load(
             MODEL_DIR / "lstm_cadao.pt",
-            map_location=device
+            map_location=device,
+            weights_only=False
         )
         
         vocab = checkpoint['vocab']
