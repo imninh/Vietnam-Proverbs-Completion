@@ -41,12 +41,13 @@ TRAIN_DATA    = str(BACKEND_DIR / "data" / "train_data_seg.txt")
 app  = Flask(__name__)
 CORS(app, origins=[
     "http://localhost:3000",
-    "http://localhost:5173",
+    "http://localhost:5173",          # Vite dev thường port 5173
     "http://127.0.0.1:3000",
     "http://127.0.0.1:5173",
-    "https://vietnam-proverbs-completion-7f5b.vercel.app",       
-    "https://*.vercel.app",                                   
-])
+    "https://vietnam-proverbs-completion-7f5b.vercel.app",  # ← thêm cái này (origin chính xác từ log)
+    "https://*.vercel.app",                                 # ← cho tất cả preview domains (an toàn hơn)
+    "*"                                                     # ← tạm thời dùng * để test (sau fix thì xóa, không an toàn)
+], supports_credentials=True)  # Nếu dùng cookie/auth sau này
 
 # ---------------------------------------------------------------------------
 # 3. LOAD MODELS (1 lần khi server start)
