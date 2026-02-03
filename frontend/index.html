@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Meta tags for SEO & Social Sharing -->
+    <meta name="description" content="Academic NLP Project - Vietnamese Language Prediction Interface">
+    <meta name="keywords" content="NLP, Vietnamese, Language Model, Text Generation, Academic Project">
+    <meta name="author" content="Research Group">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Proverb Weaver - Language Prediction Interface">
+    <meta property="og:description" content="An experimental interface for exploring pattern completion in textual data">
+    
+    <!-- Preconnect for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/brands.min.css">
+    
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    
+    <title>Proverb Weaver | Language Prediction Interface</title>
+    
+    <!-- Theme color for mobile browsers -->
+    <meta name="theme-color" content="#0a0a0f">
+    <meta name="color-scheme" content="dark light">
+    
+    <!-- iOS specific -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <!-- PWA manifest -->
+    <link rel="manifest" href="/manifest.json">
+  </head>
+  <body class="dark-theme">
+    <noscript>
+      <div class="no-script-message">
+        <h1>JavaScript Required</h1>
+        <p>This application requires JavaScript to function properly. Please enable JavaScript in your browser settings.</p>
+        <p>For more information, visit our <a href="https://github.com/imninh/Cadao-Tucngu-NLP.git">GitHub repository</a>.</p>
+      </div>
+    </noscript>
+    
+    <div id="root"></div>
+    
+    <!-- Performance monitoring (optional) -->
+    <script>
+      // Performance monitoring
+      window.addEventListener('load', () => {
+        const perfData = window.performance.timing;
+        const pageLoadTime = perfData.loadEventEnd - perfData.navigationStart;
+        console.log(`Page loaded in ${pageLoadTime}ms`);
+        
+        // Detect reduced motion preference
+        const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if (prefersReducedMotion) {
+          document.documentElement.classList.add('reduced-motion');
+        }
+      });
+      
+      // Theme detection
+      const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+      if (prefersDarkScheme.matches) {
+        document.body.classList.add('dark-theme');
+        document.body.classList.remove('light-theme');
+      }
+    </script>
+    
+    <script type="module" src="/src/main.tsx"></script>
+    
+    <!-- Fallback for older browsers -->
+    <script>
+      // Check for ES6 support
+      try {
+        new Function('(a = 0) => a');
+      } catch (err) {
+        document.write(
+          '<div style="text-align:center;padding:20px;color:#fff;background:#0a0a0f;">' +
+          '<h2>Browser Update Required</h2>' +
+          '<p>Your browser does not support modern JavaScript features required by this application.</p>' +
+          '<p>Please update your browser to the latest version or try a modern browser like Chrome, Firefox, or Edge.</p>' +
+          '</div>'
+        );
+      }
+    </script>
+  </body>
+</html>
