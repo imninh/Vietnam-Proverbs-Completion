@@ -1,0 +1,10 @@
+{
+  "timestamp": "1770023284.7067864",
+  "cleaned_data_checksum": "305bc84b57e9a1bfefcb44271037663d",
+  "total_cleaned_sentences": 12983,
+  "train_size": 12983,
+  "test_size": 3894,
+  "test_ratio": 0.3,
+  "min_words": 3,
+  "random_seed": 42
+}

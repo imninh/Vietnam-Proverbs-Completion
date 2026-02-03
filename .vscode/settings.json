@@ -1,0 +1,15 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "python-envs.defaultPackageManager": "ms-python.python:pip",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/models/n_gram",
+        "${workspaceFolder}/models/ensemble",
+        "${workspaceFolder}/models/retrieval",
+        "${workspaceFolder}/backend/models",
+        "./backend/models/n_gram"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "python.languageServer": "Pylance",
+    "cmake.sourceDirectory": "${workspaceFolder}/kenlm-master"
+}
