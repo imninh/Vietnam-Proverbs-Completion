@@ -299,8 +299,8 @@ Combines N-gram generation with retrieval for the best of both worlds.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/imninh/vietnam-proverbs-completion.git
-vietnam-proverbs-completion
+git clone https://github.com/your-org/ca-dao-completion.git
+cd ca-dao-completion
 
 # 2. Create virtual environment (recommended)
 python -m venv venv
@@ -326,11 +326,18 @@ python ngram/preprocess.py
 # Train 5-gram KenLM model
 python ngram/train.py
 # Output: checkpoint/model.bin
-
-
----
+```
 
 ## Web Deployment: [https://vietnam-proverbs-completion-7f5b.vercel.app]
+
+```
+
+### Deployment Checklist
+
+- [ ] Use `model.bin` (binary) — loads in milliseconds vs. seconds for ARPA
+- [ ] Enable caching for TF-IDF vectors (computed once at startup)
+- [ ] Set `FLASK_ENV=production`
+- [ ] Response target: **< 100ms** per completion
 
 ---
 
@@ -338,61 +345,88 @@ python ngram/train.py
 
 ### Current Limitations
 
-| Area | Limitation |
-|---|---|
-| **Context Window** | 5-gram captures only 4 words of context — long-range poetic structure may be missed |
-| **Dataset Size** | 13,062 verses — sufficient for N-gram but insufficient for neural models |
-| **Semantic Understanding** | Pure statistical approach; no deep meaning comprehension |
-| **Regional Variation** | Dataset may under-represent certain regional Ca Dao dialects |
-| **Evaluation** | Automated metrics only — no expert human evaluation conducted |
+The following are known constraints of the current system — each represents a concrete direction for future improvement.
+
+| # | Area | Limitation |
+|---|---|---|
+| 1 | 🪟 **Context Window** | 5-gram captures only 4 words of context. Long-range poetic structure (e.g. thematic coherence across a full verse) may be missed. |
+| 2 | 📦 **Dataset Size** | 13,062 verses is sufficient for N-gram modeling, but too small to fine-tune neural models like PhoBERT without overfitting. |
+| 3 | 🧠 **Semantic Understanding** | The model is purely statistical — it matches surface-level word patterns, not meaning. It cannot reason about theme or emotion. |
+| 4 | 🗺️ **Regional Variation** | The corpus may over-represent certain regions or historical periods, under-representing rarer Ca Dao dialects. |
+| 5 | 📊 **Evaluation** | All metrics are automated (exact match, similarity). No expert literary evaluation has been conducted yet. |
+
+---
 
 ### Roadmap
 
-#### 🟢 Short-term
-- [ ] Expand dataset to **50,000+ verses** (target: +10–15% accuracy)
-- [ ] Integrate `VnCoreNLP` for higher-accuracy word segmentation
-- [ ] Add confidence calibration (temperature scaling)
-- [ ] Implement user feedback loop in the web app
+```
+NOW ──────────────► SHORT-TERM ──────────► MEDIUM-TERM ──────────► LONG-TERM
+                    (next 3–6 mo)          (6–12 mo)               (12+ mo)
 
-#### 🟡 Medium-term
-- [ ] Fine-tune **PhoBERT** or **ViT5** on the Ca Dao domain
-- [ ] Explicit modeling of **Lục Bát** meter (6-8 syllable structure + rhyme)
-- [ ] Multi-task learning: completion + classification + paraphrasing
+  ✅ 5-gram          📦 Expand dataset      🤖 Fine-tune            🎨 Poetry
+  ✅ TF-IDF          🔧 VnCoreNLP           PhoBERT / ViT5         generation
+  ✅ Ensemble        📐 Confidence          📐 Lục Bát meter       🎮 Gamified
+  ✅ Web app         🔄 User feedback       🔗 Multi-task          🌏 Multi-
+  ✅ Evaluation                             learning               cultural
+```
 
-#### 🔵 Long-term
-- [ ] Controlled **poetry generation** (create new Ca Dao matching a theme/structure)
-- [ ] **Multimodal** integration: image → verse, audio integration
-- [ ] **Gamified learning platform** with progressive difficulty
-- [ ] Cross-cultural poetry system (Vietnamese ↔ Chinese ↔ Japanese)
+**Short-term** — foundation improvements
+
+- [ ] Expand dataset to **50,000+ verses** from additional cultural archives (target: +10–15% accuracy)
+- [ ] Swap in `VnCoreNLP` for higher-accuracy Vietnamese word segmentation (currently PyVi at 94.8%)
+- [ ] Add confidence calibration via temperature scaling so scores better reflect true accuracy
+- [ ] Wire up a user feedback loop in the web app — let users correct wrong completions
+
+**Medium-term** — move toward neural & structural modeling
+
+- [ ] Fine-tune **PhoBERT** or **ViT5** on the Ca Dao corpus once dataset is large enough
+- [ ] Explicitly model **Lục Bát** meter constraints (6–8 syllable structure + rhyme scheme) as a generation filter
+- [ ] Explore multi-task learning: joint training on completion, verse classification, and paraphrasing
+
+**Long-term** — beyond completion
+
+- [ ] Controlled **poetry generation** — create brand-new Ca Dao matching a user-specified theme or structure
+- [ ] **Multimodal** inputs: generate verses inspired by images (e.g. Vietnamese landscapes) or pair with traditional melodies
+- [ ] Build a **gamified learning platform** with progressive difficulty, quizzes, and streak tracking
+- [ ] Expand into a cross-cultural poetry system bridging Vietnamese, Chinese, and Japanese traditions
 
 ---
 
 ## Team & References
 
-### Project Team — Group 16
+### 👥 Project Team — Group 16
 
-| Name | Student ID |
+| Name | Student ID | Role |
+|---|---|---|
+| Vũ Xuân Anh | 20233832 | 
+| Đào Hữu Mao | 20233865 | 
+| Trần Thế Ninh | 20233873 | 
+| Lê Thi Thảo | 20233877 | 
+
+| | |
 |---|---|
-| Vũ Xuân Anh | 20233832 |
-| Đào Hữu Mao | 20233865 |
-| Trần Thế Ninh | 20233873 |
-| Lê Thi Thảo | 20233877 |
-
-**Supervisor:** Dr. Đỗ Thị Ngọc Diệp  
-**Institution:** Hanoi University of Science and Technology — School of Electrical and Electronic Engineering  
-**Course:** Natural Language Processing (Class 161838)
-
-### Key References
-
-| # | Reference |
-|---|---|
-| 1 | Jurafsky & Martin (2023). *Speech and Language Processing*, 3rd ed. |
-| 2 | Nguyen & Nguyen (2020). *PhoBERT: Pre-trained language models for Vietnamese.* EMNLP 2020. |
-| 3 | Heafield (2011). *KenLM: Faster and Smaller Language Model Queries.* |
-| 4 | Kneser & Ney (1995). *Improved backing-off techniques for estimating n-gram probabilities.* |
-| 5 | Vu, Hoang & Nguyen (2021). *Vietnamese Natural Language Processing: A Survey.* arXiv. |
-| 6 | Vaswani et al. (2017). *Attention is all you need.* NeurIPS 2017. |
+| **Supervisor** | Dr. Đỗ Thị Ngọc Diệp |
+| **Institution** | Hanoi University of Science and Technology |
+| **Department** | School of Electrical and Electronic Engineering |
+| **Course** | Natural Language Processing — Class 161838 |
 
 ---
 
-> **"Một cây làm chả nên hồi. Ba cây chụm lại mấy đời còn xanh 🌿"**  
+### 📚 Key References
+
+1. Jurafsky, D. & Martin, J. H. (2023). *Speech and Language Processing*, 3rd ed. — Pearson.
+2. Nguyen, P. T. & Nguyen, L. M. (2020). *PhoBERT: Pre-trained language models for Vietnamese.* Findings of EMNLP 2020.
+3. Heafield, K. (2011). *KenLM: Faster and Smaller Language Model Queries.* — WMT 2011.
+4. Kneser, R. & Ney, H. (1995). *Improved backing-off techniques for estimating n-gram probabilities.*
+5. Vu, M. H., Hoang, A. C. & Nguyen, T. T. (2021). *Vietnamese Natural Language Processing: A Survey.* arXiv:2103.01331.
+6. Vaswani, A. et al. (2017). *Attention is all you need.* NeurIPS 2017.
+
+---
+
+<div align="center">
+
+> *"Một cây làm chả nên hồi,*
+> *Ba cây chụm lại mấy đời còn xanh🌿"*
+
+
+</div>
